@@ -1,0 +1,8 @@
+body {
+	background: linear-gradient(#fc9ff8, #d10490);
+	font-size: 20px;
+	position: relative;
+	height: 100%;
+	font-family: 'Water Brush', cursive;
+	text-align: center;
+}
